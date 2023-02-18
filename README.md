@@ -44,7 +44,7 @@
         
     $ cd CSC591_Group5_Lua2Py_4
 
-  - Get inside the directory:
+  - Get inside the src directory:
         
     $ cd src
 
