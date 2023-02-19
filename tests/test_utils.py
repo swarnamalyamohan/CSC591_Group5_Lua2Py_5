@@ -1,4 +1,5 @@
-
+import sys
+sys.path.append("./src")
 from utils import *
 from num import NUM
 from sym import SYM
