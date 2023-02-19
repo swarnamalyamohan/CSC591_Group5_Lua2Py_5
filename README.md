@@ -13,6 +13,7 @@
   
 ## Migrating LUA CodeBase to Python
 
+[![codecov](https://codecov.io/gh/swarnamalyamohan/CSC591_Group5_Lua2Py_5/branch/main/graph/badge.svg?token=QCHYPQGe0N)](https://codecov.io/gh/swarnamalyamohan/CSC591_Group5_Lua2Py_5)
 </div>
 
 ##  Features
