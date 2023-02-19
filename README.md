@@ -43,14 +43,10 @@
   - Get inside the directory:
         
     $ cd CSC591_Group5_Lua2Py_4
-
-  - Get inside the src directory:
-        
-    $ cd src
-
+   
   - Run all the tests:
   
-    $ python main.py -g all
+    $ python ./tests/test_engine.py -g all
     
 
 
