@@ -19,10 +19,10 @@
 [![license](https://img.shields.io/github/license/swarnamalyamohan/CSC591_Group5_Lua2Py_5?style=plastic)](https://github.com/swarnamalyamohan/CSC591_Group5_Lua2Py_5/blob/main/LICENSE.md)
 [![language](https://img.shields.io/github/languages/top/swarnamalyamohan/CSC591_Group5_Lua2Py_5)](https://github.com/swarnamalyamohan/CSC591_Group5_Lua2Py_5/search?l=python)<br/>
  
-[![Tests](https://github.com/swarnamalyamohan/CSC591_Group5_Lua2Py_5/actions/workflows/test.yml/badge.svg)](https://github.com/swarnamalyamohan/CSC591_Group5_Lua2Py_5/actions/workflows/test.yml)
+[![Tests](https://github.com/swarnamalyamohan/CSC591_Group5_Lua2Py_5/actions/workflows/test.yaml/badge.svg)](https://github.com/swarnamalyamohan/CSC591_Group5_Lua2Py_5/actions/workflows/test.yaml)
 [![Python Style Checker](https://github.com/swarnamalyamohan/CSC591_Group5_Lua2Py_5/actions/workflows/python_style_checker.yml/badge.svg)](https://github.com/swarnamalyamohan/CSC591_Group5_Lua2Py_5/actions/workflows/python_style_checker.yml)
 [![Python Syntax Checker](https://github.com/swarnamalyamohan/CSC591_Group5_Lua2Py_5/actions/workflows/python_syntax_checker.yml/badge.svg)](https://github.comswarnamalyamohan/CSC591_Group5_Lua2Py_5/actions/workflows/python_syntax_checker.yml)
-[![Pylint](https://github.com/swarnamalyamohan/CSC591_Group5_Lua2Py_5/actions/workflows/pylint.yml/badge.svg)](https://github.com/swarnamalyamohan/CSC591_Group5_Lua2Py_5/actions/workflows/pylint.yml)
+[![Pylint](https://github.com/swarnamalyamohan/CSC591_Group5_Lua2Py_5/actions/workflows/pylint.yaml/badge.svg)](https://github.com/swarnamalyamohan/CSC591_Group5_Lua2Py_5/actions/workflows/pylint.yaml)
 
 [![GitHub issues](https://img.shields.io/github/issues-raw/swarnamalyamohan/CSC591_Group5_Lua2Py_5?style=plastic)](https://github.com/swarnamalyamohan/CSC591_Group5_Lua2Py_5/issues)
 [![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/swarnamalyamohan/CSC591_Group5_Lua2Py_5?style=plastic)](https://github.com/swarnamalyamohan/CSC591_Group5_Lua2Py_5/issues?q=is%3Aissue+is%3Aclosed)
@@ -36,6 +36,7 @@
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/swarnamalyamohan/CSC591_Group5_Lua2Py_5)](https://github.com/swarnamalyamohan/CSC591_Group5_Lua2Py_5/releases/tag/v1.0.0)
 ![GitHub Release Date](https://img.shields.io/github/release-date/swarnamalyamohan/CSC591_Group5_Lua2Py_5?style=plastic)<br/>
 </div>
+
 ##  Features
 | HW5 | Convert bins.lua to python |
 |-----|:--------------------------:|
